@@ -6,6 +6,7 @@ USE AT YOUR OWN RISK!
 The preferred way is that you put a link to your own repository here:
 
 - https://github.com/sten0/btrfs-borg
+- https://github.com/dragetd/borgbench (benchmark of borg chunking settings vs. final size for different types of data)
 - (add your link above this line)
 
 If you prefer having the file here, make a pull request.
