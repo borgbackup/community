@@ -7,6 +7,7 @@ The preferred way is that you put a link to your own repository here:
 
 - https://github.com/sten0/btrfs-borg (script to handle btrfs-snapshots and borg)
 - https://github.com/dragetd/borgbench (benchmark of borg chunking settings vs. final size for different types of data)
+- https://github.com/mrkmg/borgbackup-zsh-completion (zsh completion for borg)
 - (add your link above this line)
 
 If you prefer having the file here, make a pull request.
