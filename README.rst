@@ -10,4 +10,5 @@ The preferred way is that you put a link to your own repository here:
 - https://github.com/mrkmg/borgbackup-zsh-completion (zsh completion for borg)
 - https://github.com/obilodeau/borgbackup-scripts (cron script with xdg desktop notifications)
 - https://borg.bauerj.eu/ (borg binaries for ARM/Linux)
+- https://github.com/vesparny/borgjs (A node wrapper to automate and monitor backups)
 - (add your link above this line)
