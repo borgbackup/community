@@ -11,4 +11,5 @@ The preferred way is that you put a link to your own repository here:
 - https://github.com/obilodeau/borgbackup-scripts (cron script with xdg desktop notifications)
 - https://borg.bauerj.eu/ (borg binaries for ARM/Linux)
 - https://github.com/vesparny/borgjs (A node wrapper to automate and monitor backups)
+- https://github.com/rear/rear (Linux bare metal disaster recovery and system migration solution with Borg as one of its backends)
 - (add your link above this line)
