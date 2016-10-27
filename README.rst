@@ -13,3 +13,18 @@ The preferred way is that you put a link to your own repository here:
 - https://github.com/vesparny/borgjs (A node wrapper to automate and monitor backups)
 - https://github.com/rear/rear (Linux bare metal disaster recovery and system migration solution with Borg as one of its backends)
 - (add your link above this line)
+
+Debugging tools
+---------------
+
+- https://gist.github.com/enkore/14f7bd9f56d6cc17914a73345fd30fc4
+
+  Shows the most commonly referenced cache entries; useful to diagnose corrupted caches.
+  
+- https://gist.github.com/enkore/92216e919bc0ad2602d4a429bed597fb
+
+  Shows freeable space in a repository, mostly interesting for 1.1.x repos and --append-only repos.
+
+- https://gist.github.com/textshell/ac8486af3fc08b52278df9c672732656
+
+  Aggregates statistics about current and superseded objects in a repo.
