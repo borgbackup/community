@@ -16,6 +16,9 @@ The preferred way is that you put a link to your own repository here:
 - https://github.com/hkbakke/borgwrapper (Simple wrapper to make borg easier to use and configure for the generic backup use case)
 - (add your link above this line)
 
+Development
+-----------
+- https://github.com/Abogical/borg-gtk (A frontend for borg without the JSON API) (DISCONTINUED)
 
 Debugging tools
 ---------------
