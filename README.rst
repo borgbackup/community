@@ -15,6 +15,7 @@ The preferred way is that you put a link to your own repository here:
 - https://hub.docker.com/r/produktion/borg/ (Alpine based docker container)
 - https://github.com/hkbakke/borgwrapper (Simple wrapper to make borg easier to use and configure for the generic backup use case)
 - https://github.com/mxroo/borg_backupninja (Handlers and jobs for using borg with backupninja)
+- https://metacpan.org/pod/distribution/App-BorgRestore/script/borg-restore.pl (restoration helper script)
 - (add your link above this line)
 
 Development
