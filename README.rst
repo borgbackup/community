@@ -1,5 +1,5 @@
-Random Stuff from Borg Community
-================================
+Resources from the Borg Community
+=================================
 
 USE AT YOUR OWN RISK!
 
