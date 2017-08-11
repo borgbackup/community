@@ -17,6 +17,7 @@ The preferred way is that you put a link to your own repository here:
 - https://github.com/mxroo/borg_backupninja (Handlers and jobs for using borg with backupninja)
 - https://metacpan.org/pod/distribution/App-BorgRestore/script/borg-restore.pl (restoration helper script)
 - https://github.com/rugk/borg-cron-helper (Shell scripts to automate backups with additional features, such as a local lock system)
+- https://github.com/matheusd/qubes-borg-rsyncnet (Script and instructions for backup strategy using Qubes OS, Borg Backup and rsync.net)
 - (add your link above this line)
 
 Development
