@@ -18,6 +18,7 @@ The preferred way is that you put a link to your own repository here:
 - https://metacpan.org/pod/distribution/App-BorgRestore/script/borg-restore.pl (restoration helper script)
 - https://github.com/rugk/borg-cron-helper (Shell scripts to automate backups with additional features, such as a local lock system)
 - https://github.com/matheusd/qubes-borg-rsyncnet (Script and instructions for backup strategy using Qubes OS, Borg Backup and rsync.net)
+- https://github.com/anarcat/community/tree/cron.daily (simple cron job with purge and basic policies)
 - (add your link above this line)
 
 Development
