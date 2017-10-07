@@ -19,6 +19,8 @@ The preferred way is that you put a link to your own repository here:
 - https://github.com/rugk/borg-cron-helper (Shell scripts to automate backups with additional features, such as a local lock system)
 - https://github.com/matheusd/qubes-borg-rsyncnet (Script and instructions for backup strategy using Qubes OS, Borg Backup and rsync.net)
 - https://github.com/anarcat/community/tree/cron.daily (simple cron job with purge and basic policies)
+- https://github.com/bebehei/backup-with-borg (Simple bash wrapper managing passwords and default values)
+- https://github.com/bebehei/nagios-plugin-check_borg (Icinga/Nagios check plugin to check repository archive date)
 - (add your link above this line)
 
 Development
