@@ -21,6 +21,7 @@ The preferred way is that you put a link to your own repository here:
 - https://github.com/anarcat/community/tree/cron.daily (simple cron job with purge and basic policies)
 - https://github.com/bebehei/backup-with-borg (Simple bash wrapper managing passwords and default values)
 - https://github.com/bebehei/nagios-plugin-check_borg (Icinga/Nagios check plugin to check repository archive date)
+- https://github.com/milkey-mouse/backup-vm (script to make online/offline backups of libvirt-based VMs using borg)
 - (add your link above this line)
 
 Development
