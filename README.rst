@@ -23,6 +23,7 @@ The preferred way is that you put a link to your own repository here:
 - https://github.com/bebehei/nagios-plugin-check_borg (Icinga/Nagios check plugin to check repository archive date)
 - https://github.com/milkey-mouse/backup-vm (script to make online/offline backups of libvirt-based VMs using borg)
 - https://github.com/rear/rear/blob/master/doc/user-guide/04-scenarios.adoc#bootable-iso-with-borg (Relax-and-Recover scenario for borg recovery live USB)
+- https://github.com/lsim/remote-borg-runner (Yet another simple shell script wrapper. Provides a template for integrating with systemd among other things)
 - (add your link above this line)
 
 Development
