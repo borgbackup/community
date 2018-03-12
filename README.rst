@@ -25,6 +25,7 @@ The preferred way is that you put a link to your own repository here:
 - https://github.com/rear/rear/blob/master/doc/user-guide/04-scenarios.adoc#bootable-iso-with-borg (Relax-and-Recover scenario for borg recovery live USB)
 - https://github.com/lsim/remote-borg-runner (Yet another simple shell script wrapper. Provides a template for integrating with systemd among other things)
 - https://github.com/Alex131089/bbbs (Bash Borg Backup System – wrappers to handle pull-mode operation. Also comes with installer and ssh key provisioning)
+- https://github.com/makeITyourway/borg_wrapper (Another Borg wrapper enables you to handle multiple projects and configs per project)
 - (add your link above this line)
 
 Development
