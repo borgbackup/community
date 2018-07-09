@@ -26,7 +26,7 @@ The preferred way is that you put a link to your own repository here:
 - https://github.com/lsim/remote-borg-runner (Yet another simple shell script wrapper. Provides a template for integrating with systemd among other things)
 - https://github.com/Alex131089/bbbs (Bash Borg Backup System – wrappers to handle pull-mode operation. Also comes with installer and ssh key provisioning)
 - https://github.com/makeITyourway/borg_wrapper (Another Borg wrapper enables you to handle multiple projects and configs per project)
-- https://github.com/engelant/borg-cygwin (Cygwin based Windows installer creator, with VSS based backup script )
+- https://github.com/engelant/borg-cygwin (Cygwin based Windows installer creator, with VSS based backup script)
 - (add your link above this line)
 
 Development
