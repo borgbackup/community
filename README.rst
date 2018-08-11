@@ -28,6 +28,7 @@ The preferred way is that you put a link to your own repository here:
 - https://github.com/makeITyourway/borg_wrapper (Another Borg wrapper enables you to handle multiple projects and configs per project)
 - https://github.com/engelant/borg-cygwin (Cygwin based Windows installer creator, with VSS based backup script)
 - https://github.com/witten/borgmatic (Simple wrapper script for BorgBackup that creates and prunes backups)
+- https://bitbucket.org/pustotnik/backup-o-matic (Simple wrapper with python configs, sending mail reports and some other features)
 - (add your link above this line)
 
 Development
