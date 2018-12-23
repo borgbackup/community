@@ -5,6 +5,7 @@ USE AT YOUR OWN RISK!
 
 The preferred way is that you put a link to your own repository here:
 
+- https://github.com/aditosoftware/nodebackup (collect data from config files, docker and kubernetes labels and create borg backups based on this information)
 - https://github.com/sten0/btrfs-borg (script to handle btrfs-snapshots and borg)
 - https://github.com/n-st/borgbench (benchmark which compression and chunking settings work best for your data and use case)
 - https://github.com/mrkmg/borgbackup-zsh-completion (zsh completion for borg)
