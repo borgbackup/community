@@ -35,6 +35,7 @@ The preferred way is that you put a link to your own repository here:
 - https://gitlab.com/lefeverd/borgwrapper (Yet another simple wrapper script, using a YAML configuration file and cron/LaunchAgent to automate backups. Also possible to send a summary by mail)
 - https://github.com/borgbase/vorta/ (Vorta – desktop client for Linux and macOS)
 - https://github.com/borgbase/ansible-role-borgbackup (Ansible role to set up Borg and Borgmatic for regular remote backups)
+- https://github.com/GaetanF/cyborgbackup (web-based user interface, REST API and task engine built on top of BorgBackup)
 - (add your link above this line)
 
 Development
