@@ -22,6 +22,7 @@ Graphical front-ends
 
 - https://github.com/borgbase/vorta/ (Vorta – desktop client for Linux and macOS)
 - https://github.com/GaetanF/cyborgbackup (web-based user interface, REST API and task engine built on top of BorgBackup)
+- https://github.com/bpereto/borg-hive (web-based user interface for repositories and REST-API)
 
 Shell autocompletion
 --------------------
