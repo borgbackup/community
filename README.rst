@@ -66,6 +66,8 @@ Backup scripts / Borg wrappers
 - https://gitlab.com/lefeverd/borgwrapper (Yet another simple wrapper script, using a YAML configuration file and cron/LaunchAgent to automate backups. Also possible to send a summary by mail)
 - https://hub.docker.com/r/produktion/borg/ (Alpine based docker container)
 - https://github.com/hagai-helman/docker-borg-server (Docker image of an SSH server with Borg support)
+- https://github.com/anatsuk1/jxy-memories (JxyMemories written in Python3 backups multiple logical volumes of LVM2(Logical Volume Manager))
+
 
 Testing / Benchmarks
 --------------------
