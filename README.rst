@@ -67,6 +67,7 @@ Backup scripts / Borg wrappers
 - https://hub.docker.com/r/produktion/borg/ (Alpine based docker container)
 - https://github.com/hagai-helman/docker-borg-server (Docker image of an SSH server with Borg support)
 - https://github.com/anatsuk1/jxy-memories (JxyMemories written in Python3 backups multiple logical volumes of LVM2(Logical Volume Manager))
+- https://github.com/spslater/borgapi (Python3.9 wrapper that lets you make borg calls from other python scripts)
 
 
 Testing / Benchmarks
