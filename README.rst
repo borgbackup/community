@@ -113,6 +113,3 @@ Some of them refer to attic, but you can do the same stuff (and more) with borgb
 
 - `Attic Backup: Mount your encrypted backups over ssh (youtube)
   <https://www.youtube.com/watch?v=BVXDFv9YMp8>`_
-
-- `Evolution of Borg (youtube)
-  <https://www.youtube.com/watch?v=K4k_4wDkG6Q>`_
