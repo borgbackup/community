@@ -14,7 +14,7 @@ Installing / Platform support
 - https://borg.bauerj.eu/ (borg binaries for ARM/Linux)
 - Note: Intel/AMD x64 Linux, FreeBSD and macOS borg binaries are available with borg.
 - https://github.com/engelant/borg-cygwin (Cygwin based Windows installer creator, with VSS based backup script)
-- https://git.feneas.org/borg-binary-builder/borg-binaries (docker solution to build borg binaries for various architectures)
+- https://gitlab.com/borg-binary-builder/borg-binaries (docker solution to build borg binaries for various architectures)
 - https://github.com/borgbase/ansible-role-borgbackup (Ansible role to set up Borg and Borgmatic for regular remote backups)
 
 Graphical front-ends
