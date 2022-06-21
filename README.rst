@@ -26,6 +26,7 @@ Graphical front-ends
 - https://github.com/GaetanF/cyborgbackup (web-based user interface, REST API and task engine built on top of BorgBackup)
 - https://github.com/bpereto/borg-hive (web-based user interface for repositories and REST-API)
 - https://salsa.debian.org/freedombox-team/freedombox/-/tree/master/plinth/modules/backups (Web-based user interface for backing up FreedomBox applications)
+- https://framagit.org/framasoft/borgbackup/borg-dashboard-vue borg dashboard in vuejs
 
 Shell autocompletion
 --------------------
@@ -37,6 +38,8 @@ Monitoring
 ----------
 
 - https://github.com/bebehei/nagios-plugin-check_borg (Icinga/Nagios check plugin to check repository archive date)
+- https://framagit.org/framasoft/borgbackup/borg-dashboard-exporter (borg dashboard exporter)
+
 
 Backup tool integration
 -----------------------
