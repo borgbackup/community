@@ -17,6 +17,7 @@ Installing / Platform support
 - https://gitlab.com/borg-binary-builder/borg-binaries (docker solution to build borg binaries for various architectures)
 - https://github.com/borgbase/ansible-role-borgbackup (Ansible role to set up Borg and Borgmatic for regular remote backups)
 - https://github.com/adhawkins/ansible-borgbase (Ansible collection containing modules to manipulate Borgbase repositories and SSH keys)
+- https://github.com/fleetwoodmac/FUSEless-Mount-macOS (Mount Borg backups on macOS without macFUSE)
 
 Graphical front-ends
 --------------------
