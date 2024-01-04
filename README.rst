@@ -29,6 +29,7 @@ Graphical front-ends
 - https://salsa.debian.org/freedombox-team/freedombox/-/tree/master/plinth/modules/backups (Web-based user interface for backing up FreedomBox applications)
 - https://framagit.org/framasoft/borgbackup/borg-dashboard-vue (borg dashboard in vuejs)
 - https://borgwarehouse.com/ (A fast and modern WebUI for a BorgBackup's central repository server)
+- https://github.com/mshopf/borg-webgui (Web-based GUI for restoring data from existing backups)
 
 Shell autocompletion
 --------------------
