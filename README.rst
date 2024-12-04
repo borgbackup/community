@@ -18,6 +18,7 @@ Installing / Platform support
 - https://github.com/borgbase/ansible-role-borgbackup (Ansible role to set up Borg and Borgmatic for regular remote backups)
 - https://github.com/adhawkins/ansible-borgbase (Ansible collection containing modules to manipulate Borgbase repositories and SSH keys)
 - https://github.com/fleetwoodmac/FUSEless-Mount-macOS (Mount Borg backups on macOS without macFUSE)
+- https://github.com/bbx0/container-borgbackup (Distribution of BorgBackup as Docker image)
 
 Graphical front-ends
 --------------------
@@ -42,7 +43,7 @@ Monitoring
 
 - https://github.com/bebehei/nagios-plugin-check_borg (Icinga/Nagios check plugin to check repository archive date)
 - https://framagit.org/framasoft/borgbackup/borg-dashboard-exporter (borg dashboard exporter)
-
+- https://github.com/bbx0/borgreport (Get a report on repositories (per mail) and export Metrics)
 
 Backup tool integration
 -----------------------
