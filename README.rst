@@ -31,6 +31,7 @@ Graphical front-ends
 - https://framagit.org/framasoft/borgbackup/borg-dashboard-vue (borg dashboard in vuejs)
 - https://borgwarehouse.com/ (A fast and modern WebUI for a BorgBackup's central repository server)
 - https://github.com/mshopf/borg-webgui (Web-based GUI for restoring data from existing backups)
+- https://apps.apple.com/app/borglens/id6743801028 (BorgLens: Securely access your Borg backup — anywhere, anytime on iPhone and iPad)
 
 Shell autocompletion
 --------------------
