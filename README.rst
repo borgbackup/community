@@ -79,7 +79,7 @@ Backup scripts / Borg wrappers
 - https://github.com/anatsuk1/jxy-memories (JxyMemories written in Python3 backups multiple logical volumes of LVM2(Logical Volume Manager))
 - https://github.com/spslater/borgapi (Python3.9 wrapper that lets you make borg calls from other python scripts)
 - https://github.com/YunoHost-Apps/borg_ynh/ and https://github.com/YunoHost-Apps/borgserver_ynh/ (Backup a yunohost with borg)
-
+- https://codeberg.org/rpnid/snapback (SnapBack: A versatile, flexibly configurable wrapper & automation tool for Borg Backup & Snapper)
 
 Testing / Benchmarks
 --------------------
