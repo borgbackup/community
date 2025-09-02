@@ -59,7 +59,7 @@ Backup scripts / Borg wrappers
 - https://github.com/aditosoftware/nodebackup (Collect data from config files, Docker and Kubernetes labels, and create Borg backups based on this information)
 - https://github.com/sten0/btrfs-borg (Script to handle Btrfs snapshots and Borg)
 - https://github.com/obilodeau/borgbackup-scripts (Cron script with XDG desktop notifications)
-- https://github.com/vesparny/borgjs (A Node wrapper to automate and monitor backups)
+- https://github.com/vesparny/borgjs (A Node.js wrapper to automate and monitor backups)
 - https://github.com/hkbakke/borgwrapper (Simple wrapper to make Borg easier to use and configure for the generic backup use case)
 - https://metacpan.org/pod/distribution/App-BorgRestore/script/borg-restore.pl (Restoration helper script)
 - https://github.com/rugk/borg-cron-helper (Shell scripts to automate backups with additional features, such as a local lock system)
