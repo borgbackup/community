@@ -31,6 +31,7 @@ Graphical front-ends
 - https://borgwarehouse.com/ (A fast and modern web UI for a BorgBackup central repository server)
 - https://github.com/mshopf/borg-webgui (Web-based GUI for restoring data from existing backups)
 - https://apps.apple.com/app/borglens/id6743801028 (BorgLens: Securely access your Borg backup — anywhere, anytime on iPhone and iPad)
+- https://github.com/mlapaglia/Borgitory (Web UI for managing BorgBackup repositories with scheduling, monitoring, and cloud sync)
 
 Shell autocompletion
 --------------------
