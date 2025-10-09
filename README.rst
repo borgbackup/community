@@ -80,6 +80,7 @@ Backup scripts / Borg wrappers
 - https://github.com/spslater/borgapi (Python 3.9 wrapper that lets you make Borg calls from other Python scripts)
 - https://github.com/YunoHost-Apps/borg_ynh/ and https://github.com/YunoHost-Apps/borgserver_ynh/ (Back up a YunoHost with Borg)
 - https://codeberg.org/rpnid/snapback (SnapBack: A versatile, flexibly configurable wrapper and automation tool for BorgBackup and Snapper)
+- https://github.com/mpantel/ruborg (ruborg: A friendly Ruby frontend for Borg Backup, supports per file retention policies)
 
 Testing / Benchmarks
 --------------------
