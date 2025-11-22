@@ -82,6 +82,7 @@ Backup scripts / Borg wrappers
 - https://github.com/YunoHost-Apps/borg_ynh/ and https://github.com/YunoHost-Apps/borgserver_ynh/ (Back up a YunoHost with Borg)
 - https://codeberg.org/rpnid/snapback (SnapBack: A versatile, flexibly configurable wrapper and automation tool for BorgBackup and Snapper)
 - https://github.com/mpantel/ruborg (ruborg: A friendly Ruby frontend for Borg Backup, supports per file retention policies)
+- https://github.com/sebastianhaberey/easyborg (Easyborg: terminal-based comfort frontend for Borg, featuring scheduled backups and fuzzy search)
 
 Testing / Benchmarks
 --------------------
