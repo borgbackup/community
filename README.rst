@@ -33,6 +33,7 @@ Graphical front-ends
 - https://apps.apple.com/app/borglens/id6743801028 (BorgLens: Securely access your Borg backup — anywhere, anytime on iPhone and iPad)
 - https://github.com/mlapaglia/Borgitory (Web UI for managing BorgBackup repositories with scheduling, monitoring, and cloud sync)
 - https://github.com/karanhudia/borg-ui (Borg Web UI – Modern web interface for managing BorgBackup with scheduling, real-time progress tracking, and Docker deployment)
+- https://github.com/marcpope/borgbackupserver (Borg Backup Server – Self-hosted web GUI and centralized management dashboard for multi-client BorgBackup with agent-based architecture, scheduling, and file-level restore)
 
 Shell autocompletion
 --------------------
