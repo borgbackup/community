@@ -24,7 +24,6 @@ Graphical front-ends
 --------------------
 
 - https://github.com/borgbase/vorta/ (Vorta – desktop client for Linux and macOS)
-- https://github.com/oddbit-io/borgmate (BorgMate - A cross-platform desktop GUI for BorgBackup)
 - https://gitlab.gnome.org/World/pika-backup (Pika Backup - GTK desktop client for Linux)
 - https://github.com/GaetanF/cyborgbackup (Web-based user interface, REST API, and task engine built on top of BorgBackup)
 - https://salsa.debian.org/freedombox-team/freedombox/-/tree/master/plinth/modules/backups (Web-based user interface for backing up FreedomBox applications)
@@ -35,6 +34,7 @@ Graphical front-ends
 - https://github.com/mlapaglia/Borgitory (Web UI for managing BorgBackup repositories with scheduling, monitoring, and cloud sync)
 - https://github.com/karanhudia/borg-ui (Borg Web UI – Modern web interface for managing BorgBackup with scheduling, real-time progress tracking, and Docker deployment)
 - https://github.com/marcpope/borgbackupserver (Borg Backup Server – Self-hosted web GUI and centralized management dashboard for multi-client BorgBackup with agent-based architecture, scheduling, and file-level restore)
+- https://github.com/oddbit-io/borgmate (BorgMate - A cross-platform desktop GUI for BorgBackup)
 
 Shell autocompletion
 --------------------
