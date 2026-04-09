@@ -24,6 +24,7 @@ Graphical front-ends
 --------------------
 
 - https://github.com/borgbase/vorta/ (Vorta – desktop client for Linux and macOS)
+- https://github.com/oddbit-io/borgmate (BorgMate - A cross-platform desktop GUI for BorgBackup)
 - https://gitlab.gnome.org/World/pika-backup (Pika Backup - GTK desktop client for Linux)
 - https://github.com/GaetanF/cyborgbackup (Web-based user interface, REST API, and task engine built on top of BorgBackup)
 - https://salsa.debian.org/freedombox-team/freedombox/-/tree/master/plinth/modules/backups (Web-based user interface for backing up FreedomBox applications)
