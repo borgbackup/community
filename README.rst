@@ -35,6 +35,7 @@ Graphical front-ends
 - https://github.com/karanhudia/borg-ui (Borg Web UI – Modern web interface for managing BorgBackup with scheduling, real-time progress tracking, and Docker deployment)
 - https://github.com/marcpope/borgbackupserver (Borg Backup Server – Self-hosted web GUI and centralized management dashboard for multi-client BorgBackup with agent-based architecture, scheduling, and file-level restore)
 - https://github.com/oddbit-io/borgmate (BorgMate - A cross-platform desktop GUI for BorgBackup)
+- https://github.com/adubovskoy/lazyborg (LazyBorg, LazyGit-inspired TUI interface for navigating borg repositories over ssh)
 
 Shell autocompletion
 --------------------
