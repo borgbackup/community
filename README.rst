@@ -11,6 +11,7 @@ please create a pull request to add it to a suitable category below
 Installing / Platform support
 -----------------------------
 
+- https://github.com/borgbackup/homebrew-tap (borg homebrew tap for macOS, includes FUSE support)
 - https://borg.bauerj.eu/ (Borg binaries for ARM/Linux)
 - Note: Intel/AMD x64 Linux, FreeBSD, and macOS Borg binaries are available with Borg.
 - https://github.com/engelant/borg-cygwin (Cygwin-based Windows installer creator with a VSS-based backup script)
@@ -87,6 +88,7 @@ Backup scripts / Borg wrappers
 - https://codeberg.org/rpnid/snapback (SnapBack: A versatile, flexibly configurable wrapper and automation tool for BorgBackup and Snapper)
 - https://github.com/mpantel/ruborg (ruborg: A friendly Ruby frontend for Borg Backup, supports per file retention policies)
 - https://github.com/sebastianhaberey/easyborg (Easyborg: terminal-based comfort frontend for Borg, featuring scheduled backups and fuzzy search)
+- https://github.com/borgbackup/borg-import/ (import backups into a borgbackup repository)
 
 Testing / Benchmarks
 --------------------
