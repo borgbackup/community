@@ -89,6 +89,7 @@ Backup scripts / Borg wrappers
 - https://github.com/mpantel/ruborg (ruborg: A friendly Ruby frontend for Borg Backup, supports per file retention policies)
 - https://github.com/sebastianhaberey/easyborg (Easyborg: terminal-based comfort frontend for Borg, featuring scheduled backups and fuzzy search)
 - https://github.com/borgbackup/borg-import/ (import backups into a borgbackup repository)
+- https://github.com/ioanalytica/k8s-borg (k8s-borg: Helm chart that backs up Kubernetes clusters with Borg – node files, etcd/k3s, databases and S3 buckets – with an optional Borg repository server and Borg UI)
 
 Testing / Benchmarks
 --------------------
